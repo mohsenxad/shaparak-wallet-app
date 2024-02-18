@@ -49,3 +49,7 @@
 |6|ثبت اسکرین شات از صفحه ی پرداخت|![](images/step6.jpg?raw=true)|
 |7|بازگشت به سایت مرجع پرداخت|![](images/step7.jpg?raw=true)|
 
+
+```
+markdown-pdf -f "A4" -s ./main.css ./README.md
+```
